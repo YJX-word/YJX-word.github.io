@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lokmont - Simple & Minimal Theme for Jekyll
 =======
 <p>Lokmont is a simple and completely responsive theme for Jekyll, suitable for any kind of bloggers and writers. It was created to be minimal, clean and at the same time functional.</p>
@@ -175,3 +176,7 @@ MIT License
 <p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
 <p>Either way, your support is a way to thank me ❤️</p>
 <p align="center"><b>Thank you for your support!</b></p>
+=======
+# YJX-word.github.io
+个人技术博客网站
+>>>>>>> 0f564a28108c71f38fbdd8f05eec097bc16022ed
